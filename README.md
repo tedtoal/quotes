@@ -121,3 +121,10 @@ Leo Tolstoy
 Hagrid
 
 ---
+
+> Wisdom: 'If it ain't broke, don't fix it'
+> Toal's corollary: 'If it's broke, fix it'
+
+Ted Toal
+
+---
